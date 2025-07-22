@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<skill-borrowers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<borrower>
+		<name>SOMESH MAHADEV LANDGE</name>
+		<gender>M</gender>
+		<dob>05-03-1995</dob>
+		<eml>SOMESHLANDGE04@gmail.com</eml>
+		<mbl>8668347009</mbl>
+		<adhr>1013</adhr>
+		<pan>AQPPL0000Q</pan>
+		<vtrid></vtrid>
+		<psprt></psprt>
+		<drvng></drvng>
+		<rlgn>2</rlgn>
+		<cstcat>4</cstcat>
+		<prsntadd>KIZHAKKUMKARAPUTHENVEEDUCHERUCODEKUMMILPOKollam</prsntadd>
+		<prsnttwn>KOLLAM</prsnttwn>
+		<prsntdist>600</prsntdist>
+		<prsntstate>32</prsntstate>
+		<prsntpin>691536</prsntpin>
+		<ifscode>SBIN00001</ifscode>
+		<acctno>AC0000000</acctno>
+		<sancamt>50000</sancamt>
+		<sancdt>03-01-2024</sancdt>
+		<tenure>480</tenure>
+		<enddt>12-2029</enddt>
+		<frstdisamt>40000</frstdisamt>
+		<frstdisdt>07-01-2024</frstdisdt>
+		<outamt>100000</outamt>
+		<moraenddt>10-01-2025</moraenddt>
+		<custid>IDSOMESH00</custid>
+		<acctnpa>N</acctnpa>
+		<npadt></npadt>
+		<fgname>LANDGE MAHADEV SHIVDAS</fgname>
+		<fgage></fgage>
+		<fgrltn></fgrltn>
+		<fgocc></fgocc>
+		<fgincome></fgincome>
+		<fgaddr></fgaddr>
+		<fgtwn></fgtwn>
+		<fgdist></fgdist>
+		<fgstate></fgstate>
+		<fgpin></fgpin>
+		<course>119</course>
+		<nsqfavail>1</nsqfavail>
+		<trainingpart>TP38358</trainingpart>
+		<industrysector>1</industrysector>
+		<jobrole>138</jobrole>
+		<loanavail>N</loanavail>
+		<eblr>100</eblr>
+		<intrate>1.5</intrate>
+	</borrower>
+	
+	
+	</skill-borrowers>

@@ -1,0 +1,53 @@
+<!-- 
+XML LAYOUT FOR REQUESTING NEW CREDIT GUARANTEE
+TRUST: CREDIT GUARANTEE FUND FOR STANDUP INDIA
+SCHEME: CREDIT GUARANTEE FUND FOR STANDUP INDIA
+VERSION: 3.0
+DATE: 20-January-2017
+-->
+
+<standupindia-borrowers>
+	<borrowers>
+	<unitname>SOMESH MAHADEV LANDGE</unitname>	
+	<unitconst>1</unitconst>	
+	<loanpurpose>1</loanpurpose>	
+	<unitpan>NMBPS4100P</unitpan>	
+	<unitregstatus></unitregstatus>	
+	<uadhaar></uadhaar>	
+	<unitarea>1</unitarea>	
+	<prsntadd>TEST</prsntadd>	
+	<prsnttwn>TEST</prsnttwn>	
+	<prsntdist>001</prsntdist>	
+	<prsntstate>01</prsntstate>	
+	<prsntpin>112211</prsntpin>	
+	<promotername>TEST</promotername>	
+	<promotergender>M</promotergender>	
+	<promoterdob>01-03-1995</promoterdob>	
+	<promoterelgblecrit>1</promoterelgblecrit>
+	<promoterminority>N</promoterminority>	
+	<promoterreligion>1</promoterreligion>	
+	<promoteremail>TEST@GMAIL.COM</promoteremail>	
+	<promotermobile>5566447744</promotermobile>	
+	<promoteradhaar>1234</promoteradhaar>	
+	<promoteradd>TEST</promoteradd>	
+	<promotertwn>TEST</promotertwn>	
+	<promoterdist>001</promoterdist>	
+	<promoterstate>01</promoterstate>	
+	<promoterpin>112233</promoterpin>	
+	<loantype>2</loantype>	
+	<ifscode>SIIFC001</ifscode>	
+	<custid>SICID001</custid>	
+	<loanacctno>SIAC001</loanacctno>	
+	<sancamtfund>500000</sancamtfund>	
+	<sancamtnonfund>300000</sancamtnonfund>	
+	<sancdt>12-12-2024</sancdt>	
+	<loanenddt>12-12-2028</loanenddt>
+	<frstdisamt>200000</frstdisamt>	
+	<frstdisdt>12-12-2025</frstdisdt>	
+	<outamt>100000</outamt>	
+	<loanclose>N</loanclose>	
+	<loanclosedt></loanclosedt>	
+	<acctnpa>N</acctnpa>	
+	<npadt></npadt>	
+	</borrowers>	
+</standupindia-borrowers>

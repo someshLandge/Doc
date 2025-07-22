@@ -1,0 +1,57 @@
+<edu-borrowers>
+
+<borrower>	
+<name>Nisha Joshi</name>	
+<cborwname>DHARAM KUMAR</cborwname>	
+<gender>F</gender>	
+<dob>15-05-1987</dob>	
+<eml></eml>	
+<mbl>9557878428</mbl>	
+<adhr>491095748541</adhr>	
+<pan></pan>	
+<vtrid></vtrid>	
+<psprt></psprt>	
+<drvng></drvng>	
+<rlgn>1</rlgn>	
+<cstcat>4</cstcat>	
+<prsntadd>HARIPUR KANWALI NEAR FISH PONDPO SEEMADWAR</prsntadd>	
+<prsnttwn>DEHRADUN</prsnttwn>	
+<prsntdist>10</prsntdist>	
+<prsntstate>5</prsntstate>	
+<prsntpin>248001</prsntpin>	
+<prmntadd>HARIPUR KANWALI NEAR FISH PONDPO SEEMADWAR</prmntadd>	
+<prmnttwn>DEHRADUN</prmnttwn>	
+<prmntdist>10</prmntdist>	
+<prmntstate>5</prmntstate>	
+<prmntpin>248001</prmntpin>	
+<ifscode>PUNB00002</ifscode>	
+<acctno>W5409103</acctno>	
+<sancamt>525000</sancamt>	
+<sancdt>01-04-2022</sancdt>	
+<tenure>180</tenure>	
+<enddt>02-2029</enddt>	
+<frstdisamt>4800</frstdisamt>	
+<frstdisdt>02-05-2022</frstdisdt>	
+<outamt>47422</outamt>	
+<moraenddt>28-06-2023</moraenddt>	
+<custid>F546288</custid>
+<acctnpa>N</acctnpa>	
+<npadt></npadt>	
+<fgname>DHARAM KUMAR</fgname>	
+<fgage></fgage>	
+<fgrltn></fgrltn>	
+<fgocc></fgocc>	
+<fgaddr></fgaddr>	
+<fgtwn></fgtwn>	
+<fgdist></fgdist>	
+<fgstate></fgstate>	
+<fgpin></fgpin>	
+<fgincome>0</fgincome>	
+<course>ENGG</course>	
+<coursetype>F</coursetype>	
+<courseabrd>N</courseabrd>	
+<coursecat>0</coursecat>	
+</borrower>
+
+
+</edu-borrowers>

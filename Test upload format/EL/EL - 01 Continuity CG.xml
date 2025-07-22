@@ -1,0 +1,22 @@
+<!-- 
+XML LAYOUT FOR REQUESTING CONTINUITY OF CREDIT GUARANTEE
+TRUST: CREDIT GUARANTEE FUND FOR EDUCATIONAL LOANS
+SCHEME: CREDIT GUARANTEE FUND SCHEME FOR EDUCATIONAL LOANS
+VERSION: 1.0
+DATE:  07-OCT-2020
+-->
+
+<edu-borrowers>
+	<borrower> 
+	<custid>SMCI0000011</custid>
+	<acctno>SMAC0000011</acctno> 
+	<tenure>180</tenure> 
+	<enddt>01-2029</enddt> 
+	<outamt>50000</outamt> 
+	<acctnpa>Y</acctnpa> 
+	<npadt>25-07-2025</npadt> 
+	<loanclose>N</loanclose> 
+	<loanclosedt></loanclosedt> 
+	<moraenddt>28-06-2024</moraenddt> 
+	</borrower>
+</edu-borrowers>

@@ -1,0 +1,14 @@
+<edu-borrowers>
+	<borrower> 
+	<custid>SMCI0000011</custid>
+	<acctno>SMAC0000011</acctno> 
+	<tenure>180</tenure> 
+	<enddt>01-2029</enddt> 
+	<outamt>50000</outamt> 
+	<acctnpa>Y</acctnpa> 
+	<npadt>25-07-2025</npadt> 
+	<loanclose>N</loanclose> 
+	<loanclosedt></loanclosedt> 
+	<moraenddt>28-06-2024</moraenddt> 
+	</borrower>
+</edu-borrowers>

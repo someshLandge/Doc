@@ -1,0 +1,15 @@
+<edu-borrowers>
+	<borrower> 
+	<custid>F546288</custid>
+	<acctno>W5409103</acctno> 
+	<tenure>180</tenure> 
+	<enddt>02-2029</enddt> 
+	<outamt>47422</outamt> 
+	<acctnpa>Y</acctnpa> 
+	<npadt>25-03-2025</npadt> 
+	<loanclose>N</loanclose> 
+	<loanclosedt></loanclosedt> 
+	<moraenddt>28-06-2024</moraenddt> 
+	</borrower>
+		
+</edu-borrowers>

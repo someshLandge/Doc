@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+XML LAYOUT FOR CLAIM REQUEST FOR CREDIT GUARANTEES
+TRUST: CREDIT GUARANTEE FUND FOR SKILLS LOANS
+SCHEME: CREDIT GUARANTEE SCHEME FOR SKILLS LOANS
+VERSION: 1.0
+DATE: 07-OCT-2020
+-->
+
+<skill-claims>
+
+   <claim>	
+	<custid>IDSOMESH00</custid>
+	<acctno>AC0000000</acctno>
+	<totalduesasonnpa>10000</totalduesasonnpa>
+	<totalduesasonclaim>100</totalduesasonclaim>
+	<npadt>30-09-2024</npadt>
+	<rcvryproceedings>N</rcvryproceedings>	
+	<principoutasondateofnpa>N</principoutasondateofnpa>
+	<intrecipoutasondateofnpa>12-12-2030</intrecipoutasondateofnpa>
+	<princioutasondateofclaim>12-12-2030</princioutasondateofclaim>
+	<intrecipoutasondateofclaim>12-12-2030</intrecipoutasondateofclaim>
+	<eblr>0.15</eblr>
+	<interratechargasondateofnpa>10</interratechargasondateofnpa>
+	</claim>
+		
+
+	
+</skill-claims>

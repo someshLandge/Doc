@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+XML LAYOUT FOR NOTIFYING RECOVERIES FOR CLAIMED CREDIT GUARANTEES
+TRUST: CREDIT GUARANTEE FUND FOR SKILLS LOANS
+SCHEME: CREDIT GUARANTEE SCHEME FOR SKILLS LOANS
+VERSION: 1.0
+DATE: 07-OCT-2020
+-->
+
+<skill-recoverys>
+	<recovery>	
+	<custid>IDSOMESH00</custid>
+	<acctno>AC0000000</acctno>
+	<rcvryamt>1000</rcvryamt>
+	<dtofrcvry>17-07-2025</dtofrcvry>
+	</recovery>
+</skill-recoverys>

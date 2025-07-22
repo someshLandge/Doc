@@ -1,0 +1,28 @@
+<!-- 
+XML LAYOUT FOR REQUESTING CONTINUITY OF CREDIT GUARANTEE
+TRUST: CREDIT GUARANTEE FUND FOR SKILL DEVELOPMENT
+SCHEME: CREDIT GUARANTEE FUND SCHEME FOR SKILL DEVELOPMENT
+VERSION: 1.0
+DATE: 07-OCT-2020
+ -->
+
+ <skill-borrowers>
+	<borrower>
+			
+	<custid>IDSOMESH00</custid>
+	<acctno>AC0000000</acctno> 
+	<tenure>480</tenure> 
+	<enddt>12-2029</enddt> 
+	<outamt>10000</outamt> 
+	<acctnpa>Y</acctnpa> 
+	<npadt>30-09-2024</npadt> 
+	<loanclose>N</loanclose> 
+	<loanclosedt></loanclosedt> 
+	<moraenddt>10-01-2026</moraenddt> 
+	<eblr>0.15</eblr>
+	<intrate>10</intrate>
+	<repaystart>N</repaystart>	
+	</borrower>
+	
+	
+</skill-borrowers>

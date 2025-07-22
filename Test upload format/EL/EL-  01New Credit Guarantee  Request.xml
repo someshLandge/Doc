@@ -1,0 +1,62 @@
+<!-- 
+XML LAYOUT FOR REQUESTING NEW CREDIT GUARANTEE
+TRUST: CREDIT GUARANTEE FUND FOR EDUCATIONAL LOANS
+SCHEME: CREDIT GUARANTEE FUND SCHEME FOR EDUCATIONAL LOANS
+VERSION: 1.0
+DATE:  01-OCT-2020
+-->
+
+<edu-borrowers>
+<borrower>	
+<name>SOMESH LANDGE</name>	
+<cborwname>SML</cborwname>	
+<gender>M</gender>	
+<dob>05-03-1995</dob>	
+<eml>SML01@GMAIL.COM</eml>	
+<mbl>9988998808</mbl>	
+<adhr></adhr>	
+<pan>AQPPH2160K</pan>	
+<vtrid></vtrid>	
+<psprt></psprt>	
+<drvng></drvng>	
+<rlgn>1</rlgn>	
+<cstcat>1</cstcat>	
+<prsntadd>TEST</prsntadd>	
+<prsnttwn>TEST</prsnttwn>	
+<prsntdist>528</prsntdist>	
+<prsntstate>27</prsntstate>	
+<prsntpin>110011</prsntpin>	
+<prmntadd>TEST</prmntadd>	
+<prmnttwn>TEST</prmnttwn>	
+<prmntdist>001</prmntdist>	
+<prmntstate>01</prmntstate>	
+<prmntpin>110011</prmntpin>	
+<ifscode>SBIN00001</ifscode>	
+<acctno>SMAC0000011</acctno>	
+<sancamt>100000</sancamt>	
+<sancdt>01-04-2022</sancdt>	
+<tenure>180</tenure>	
+<enddt>01-2027</enddt>	
+<frstdisamt>50000</frstdisamt>	
+<frstdisdt>02-05-2022</frstdisdt>	
+<outamt>50000</outamt>	
+<moraenddt>28-06-2023</moraenddt>	
+<custid>SMCI0000011</custid>
+<acctnpa>N</acctnpa>	
+<npadt></npadt>	
+<fgname></fgname>	
+<fgage></fgage>	
+<fgrltn></fgrltn>	
+<fgocc></fgocc>	
+<fgaddr></fgaddr>	
+<fgtwn></fgtwn>	
+<fgdist></fgdist>	
+<fgstate></fgstate>	
+<fgpin></fgpin>	
+<fgincome></fgincome>	
+<course>ENGG</course>	
+<coursetype>F</coursetype>	
+<courseabrd>N</courseabrd>	
+<coursecat></coursecat>	
+</borrower>
+</edu-borrowers>
