@@ -1,0 +1,72 @@
+<edu-recoverys>
+	<recovery>	
+	<custid>SDCI1000</custid>
+	<acctno>SDAC1000</acctno>
+	<rcvryamt>10000</rcvryamt>
+	<dtofrcvry>15-07-2025</dtofrcvry>
+	</recovery>
+	
+	<recovery>	
+	<custid>SDCI2000</custid>
+	<acctno>SDAC2000</acctno>
+	<rcvryamt>10000</rcvryamt>
+	<dtofrcvry>15-07-2025</dtofrcvry>
+	</recovery>
+	
+	<recovery>	
+	<custid>SDCI3000</custid>
+	<acctno>SDAC3000</acctno>
+	<rcvryamt>10000</rcvryamt>
+	<dtofrcvry>15-07-2025</dtofrcvry>
+	</recovery>
+	
+	<recovery>	
+	<custid>SDCI4000</custid>
+	<acctno>SDAC4000</acctno>
+	<rcvryamt>10000</rcvryamt>
+	<dtofrcvry>15-07-2025</dtofrcvry>
+	</recovery>
+	
+	<recovery>	
+	<custid>SDCI5000</custid>
+	<acctno>SDAC5000</acctno>
+	<rcvryamt>10000</rcvryamt>
+	<dtofrcvry>15-07-2025</dtofrcvry>
+	</recovery>
+	
+	<recovery>	
+	<custid>SDCI6000</custid>
+	<acctno>SDAC6000</acctno>
+	<rcvryamt>10000</rcvryamt>
+	<dtofrcvry>15-07-2025</dtofrcvry>
+	</recovery>
+	
+	<recovery>	
+	<custid>SDCI7000</custid>
+	<acctno>SDAC7000</acctno>
+	<rcvryamt>10000</rcvryamt>
+	<dtofrcvry>15-07-2025</dtofrcvry>
+	</recovery>
+	
+	<recovery>	
+	<custid>SDCI8000</custid>
+	<acctno>SDAC8000</acctno>
+	<rcvryamt>10000</rcvryamt>
+	<dtofrcvry>15-07-2025</dtofrcvry>
+	</recovery>
+	
+	<recovery>	
+	<custid>SDCI9000</custid>
+	<acctno>SDAC9000</acctno>
+	<rcvryamt>10000</rcvryamt>
+	<dtofrcvry>15-07-2025</dtofrcvry>
+	</recovery>
+	
+	<recovery>	
+	<custid>SDCI10000</custid>
+	<acctno>SDAC10000</acctno>
+	<rcvryamt>10000</rcvryamt>
+	<dtofrcvry>15-07-2025</dtofrcvry>
+	</recovery>
+	
+</edu-recoverys>				

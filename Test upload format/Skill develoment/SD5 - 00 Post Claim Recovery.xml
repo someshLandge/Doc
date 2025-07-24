@@ -9,8 +9,8 @@ DATE: 07-OCT-2020
 
 <skill-recoverys>
 	<recovery>	
-	<custid>IDSOMESH00</custid>
-	<acctno>AC0000000</acctno>
+	<custid>IDSOMESH1</custid>
+	<acctno>AC1000000</acctno>
 	<rcvryamt>1000</rcvryamt>
 	<dtofrcvry>17-07-2025</dtofrcvry>
 	</recovery>

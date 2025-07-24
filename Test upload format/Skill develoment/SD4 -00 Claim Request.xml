@@ -10,18 +10,18 @@ DATE: 07-OCT-2020
 <skill-claims>
 
    <claim>	
-	<custid>IDSOMESH00</custid>
-	<acctno>AC0000000</acctno>
+	<custid>IDSOMESH1</custid>
+	<acctno>AC1000000</acctno>
 	<totalduesasonnpa>10000</totalduesasonnpa>
 	<totalduesasonclaim>100</totalduesasonclaim>
-	<npadt>30-09-2024</npadt>
+	<npadt>30-09-2025</npadt>
 	<rcvryproceedings>N</rcvryproceedings>	
-	<principoutasondateofnpa>N</principoutasondateofnpa>
-	<intrecipoutasondateofnpa>12-12-2030</intrecipoutasondateofnpa>
-	<princioutasondateofclaim>12-12-2030</princioutasondateofclaim>
-	<intrecipoutasondateofclaim>12-12-2030</intrecipoutasondateofclaim>
+	<principoutasondateofnpa>1</principoutasondateofnpa>
+	<intrecipoutasondateofnpa>1</intrecipoutasondateofnpa>
+	<princioutasondateofclaim>1</princioutasondateofclaim>
+	<intrecipoutasondateofclaim>1</intrecipoutasondateofclaim>
 	<eblr>0.15</eblr>
-	<interratechargasondateofnpa>10</interratechargasondateofnpa>
+	<interratechargasondateofnpa>1</interratechargasondateofnpa>
 	</claim>
 		
 

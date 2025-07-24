@@ -1,0 +1,91 @@
+<edu-first-claims>
+	<claim>	
+	<custid>SDCI1000</custid>
+	<acctno>SDAC1000</acctno> 	
+	<totalduesasonnpa>50000</totalduesasonnpa>	
+	<totalduesasonclaim>1000</totalduesasonclaim> 
+	<dtofrecall>28-04-2025</dtofrecall> 
+	<dtofrcvryproceedings>14-07-2025</dtofrcvryproceedings> 
+	</claim>
+
+	<claim>	
+	<custid>SDCI2000</custid>
+	<acctno>SDAC2000</acctno> 	
+	<totalduesasonnpa>50000</totalduesasonnpa>	
+	<totalduesasonclaim>1000</totalduesasonclaim> 
+	<dtofrecall>28-04-2025</dtofrecall> 
+	<dtofrcvryproceedings>14-07-2025</dtofrcvryproceedings> 
+	</claim>
+
+	<claim>	
+	<custid>SDCI3000</custid>
+	<acctno>SDAC3000</acctno> 	
+	<totalduesasonnpa>50000</totalduesasonnpa>	
+	<totalduesasonclaim>1000</totalduesasonclaim> 
+	<dtofrecall>28-04-2025</dtofrecall> 
+	<dtofrcvryproceedings>14-07-2025</dtofrcvryproceedings> 
+	</claim>
+
+	<claim>	
+	<custid>SDCI4000</custid>
+	<acctno>SDAC4000</acctno> 	
+	<totalduesasonnpa>50000</totalduesasonnpa>	
+	<totalduesasonclaim>1000</totalduesasonclaim> 
+	<dtofrecall>28-04-2025</dtofrecall> 
+	<dtofrcvryproceedings>14-07-2025</dtofrcvryproceedings> 
+	</claim>
+
+	<claim>	
+	<custid>SDCI5000</custid>
+	<acctno>SDAC5000</acctno> 	
+	<totalduesasonnpa>50000</totalduesasonnpa>	
+	<totalduesasonclaim>1000</totalduesasonclaim> 
+	<dtofrecall>28-04-2025</dtofrecall> 
+	<dtofrcvryproceedings>14-07-2025</dtofrcvryproceedings> 
+	</claim>
+
+	<claim>	
+	<custid>SDCI6000</custid>
+	<acctno>SDAC6000</acctno> 	
+	<totalduesasonnpa>50000</totalduesasonnpa>	
+	<totalduesasonclaim>1000</totalduesasonclaim> 
+	<dtofrecall>28-04-2025</dtofrecall> 
+	<dtofrcvryproceedings>14-07-2025</dtofrcvryproceedings> 
+	</claim>
+
+	<claim>	
+	<custid>SDCI7000</custid>
+	<acctno>SDAC7000</acctno> 	
+	<totalduesasonnpa>50000</totalduesasonnpa>	
+	<totalduesasonclaim>1000</totalduesasonclaim> 
+	<dtofrecall>28-04-2025</dtofrecall> 
+	<dtofrcvryproceedings>14-07-2025</dtofrcvryproceedings> 
+	</claim>
+
+	<claim>	
+	<custid>SDCI8000</custid>
+	<acctno>SDAC8000</acctno> 	
+	<totalduesasonnpa>50000</totalduesasonnpa>	
+	<totalduesasonclaim>1000</totalduesasonclaim> 
+	<dtofrecall>28-04-2025</dtofrecall> 
+	<dtofrcvryproceedings>14-07-2025</dtofrcvryproceedings> 
+	</claim>
+
+	<claim>	
+	<custid>SDCI9000</custid>
+	<acctno>SDAC9000</acctno> 	
+	<totalduesasonnpa>50000</totalduesasonnpa>	
+	<totalduesasonclaim>1000</totalduesasonclaim> 
+	<dtofrecall>28-04-2025</dtofrecall> 
+	<dtofrcvryproceedings>14-07-2025</dtofrcvryproceedings> 
+	</claim>
+
+	<claim>	
+	<custid>SDCI10000</custid>
+	<acctno>SDAC10000</acctno> 	
+	<totalduesasonnpa>50000</totalduesasonnpa>	
+	<totalduesasonclaim>1000</totalduesasonclaim> 
+	<dtofrecall>28-04-2025</dtofrecall> 
+	<dtofrcvryproceedings>14-07-2025</dtofrcvryproceedings> 
+	</claim>
+</edu-first-claims>

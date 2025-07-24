@@ -9,13 +9,13 @@ DATE: 07-OCT-2020
  <skill-borrowers>
 	<borrower>
 			
-	<custid>IDSOMESH00</custid>
-	<acctno>AC0000000</acctno> 
+	<custid>IDSOMESH1</custid>
+	<acctno>AC1000000</acctno> 
 	<tenure>480</tenure> 
 	<enddt>12-2029</enddt> 
 	<outamt>10000</outamt> 
 	<acctnpa>Y</acctnpa> 
-	<npadt>30-09-2024</npadt> 
+	<npadt>30-09-2025</npadt> 
 	<loanclose>N</loanclose> 
 	<loanclosedt></loanclosedt> 
 	<moraenddt>10-01-2026</moraenddt> 

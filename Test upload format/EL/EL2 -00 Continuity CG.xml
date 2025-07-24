@@ -1,0 +1,141 @@
+<!-- 
+XML LAYOUT FOR REQUESTING CONTINUITY OF CREDIT GUARANTEE
+TRUST: CREDIT GUARANTEE FUND FOR EDUCATIONAL LOANS
+SCHEME: CREDIT GUARANTEE FUND SCHEME FOR EDUCATIONAL LOANS
+VERSION: 1.0
+DATE:  07-OCT-2020
+-->
+
+<edu-borrowers>
+	<borrower> 
+	<custid>SDCI1000</custid>
+	<acctno>SDAC1000</acctno> 
+	<tenure>180</tenure> 
+	<enddt>01-2029</enddt> 
+	<outamt>50000</outamt> 
+	<acctnpa>Y</acctnpa> 
+	<npadt>25-07-2025</npadt> 
+	<loanclose>N</loanclose> 
+	<loanclosedt></loanclosedt> 
+	<moraenddt>28-06-2026</moraenddt> 
+	</borrower>
+
+	<borrower> 
+	<custid>SDCI2000</custid>
+	<acctno>SDAC2000</acctno> 
+	<tenure>180</tenure> 
+	<enddt>01-2029</enddt> 
+	<outamt>50000</outamt> 
+	<acctnpa>Y</acctnpa> 
+	<npadt>25-07-2025</npadt> 
+	<loanclose>N</loanclose> 
+	<loanclosedt></loanclosedt> 
+	<moraenddt>28-06-2026</moraenddt> 
+	</borrower>
+
+	<borrower> 
+	<custid>SDCI3000</custid>
+	<acctno>SDAC3000</acctno> 
+	<tenure>180</tenure> 
+	<enddt>01-2029</enddt> 
+	<outamt>50000</outamt> 
+	<acctnpa>Y</acctnpa> 
+	<npadt>25-07-2025</npadt> 
+	<loanclose>N</loanclose> 
+	<loanclosedt></loanclosedt> 
+	<moraenddt>28-06-2026</moraenddt> 
+	</borrower>
+
+	<borrower> 
+	<custid>SDCI4000</custid>
+	<acctno>SDAC4000</acctno> 
+	<tenure>180</tenure> 
+	<enddt>01-2029</enddt> 
+	<outamt>50000</outamt> 
+	<acctnpa>Y</acctnpa> 
+	<npadt>25-07-2025</npadt> 
+	<loanclose>N</loanclose> 
+	<loanclosedt></loanclosedt> 
+	<moraenddt>28-06-2026</moraenddt> 
+	</borrower>
+
+	<borrower> 
+	<custid>SDCI5000</custid>
+	<acctno>SDAC5000</acctno> 
+	<tenure>180</tenure> 
+	<enddt>01-2029</enddt> 
+	<outamt>50000</outamt> 
+	<acctnpa>Y</acctnpa> 
+	<npadt>25-07-2025</npadt> 
+	<loanclose>N</loanclose> 
+	<loanclosedt></loanclosedt> 
+	<moraenddt>28-06-2026</moraenddt> 
+	</borrower>
+
+	<borrower> 
+	<custid>SDCI6000</custid>
+	<acctno>SDAC6000</acctno> 
+	<tenure>180</tenure> 
+	<enddt>01-2029</enddt> 
+	<outamt>50000</outamt> 
+	<acctnpa>Y</acctnpa> 
+	<npadt>25-07-2025</npadt> 
+	<loanclose>N</loanclose> 
+	<loanclosedt></loanclosedt> 
+	<moraenddt>28-06-2026</moraenddt> 
+	</borrower>
+
+	<borrower> 
+	<custid>SDCI7000</custid>
+	<acctno>SDAC7000</acctno> 
+	<tenure>180</tenure> 
+	<enddt>01-2029</enddt> 
+	<outamt>50000</outamt> 
+	<acctnpa>Y</acctnpa> 
+	<npadt>25-07-2025</npadt> 
+	<loanclose>N</loanclose> 
+	<loanclosedt></loanclosedt> 
+	<moraenddt>28-06-2026</moraenddt> 
+	</borrower>
+
+	<borrower> 
+	<custid>SDCI8000</custid>
+	<acctno>SDAC8000</acctno> 
+	<tenure>180</tenure> 
+	<enddt>01-2029</enddt> 
+	<outamt>50000</outamt> 
+	<acctnpa>Y</acctnpa> 
+	<npadt>25-07-2025</npadt> 
+	<loanclose>N</loanclose> 
+	<loanclosedt></loanclosedt> 
+	<moraenddt>28-06-2026</moraenddt> 
+	</borrower>
+
+	<borrower> 
+	<custid>SDCI9000</custid>
+	<acctno>SDAC9000</acctno> 
+	<tenure>180</tenure> 
+	<enddt>01-2029</enddt> 
+	<outamt>50000</outamt> 
+	<acctnpa>Y</acctnpa> 
+	<npadt>25-07-2025</npadt> 
+	<loanclose>N</loanclose> 
+	<loanclosedt></loanclosedt> 
+	<moraenddt>28-06-2026</moraenddt> 
+	</borrower>
+
+	<borrower> 
+	<custid>SDCI10000</custid>
+	<acctno>SDAC10000</acctno> 
+	<tenure>180</tenure> 
+	<enddt>01-2029</enddt> 
+	<outamt>50000</outamt> 
+	<acctnpa>Y</acctnpa> 
+	<npadt>25-07-2025</npadt> 
+	<loanclose>N</loanclose> 
+	<loanclosedt></loanclosedt> 
+	<moraenddt>28-06-2026</moraenddt> 
+	</borrower>
+
+	
+</edu-borrowers>
